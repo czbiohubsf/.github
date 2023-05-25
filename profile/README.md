@@ -10,4 +10,4 @@ Interested in working with us? Search our job openings [here](https://www.czbioh
 
 ## Please Note:
 
-On June 12th, we will officially rename our GitHub organization from "czbiohub" to "czbiohub-sf". These renamings shouldn't break things, as GitHub will automatically redirect links from our old organization name to the new one (as long as there is no name collision with repos in the "czbiohub" org). We will be happy to assist you if you experience any trouble with your repositories.
+On June 12, 2023, we will rename our GitHub organization from "czbiohub" to "czbiohub-sf". This renaming shouldn't break any links, as GitHub will automatically redirect links from our old organization name to the new one (as long as there is no name collision with repos in the "czbiohub" org). We will be happy to assist you if you experience any trouble with your repositories.
